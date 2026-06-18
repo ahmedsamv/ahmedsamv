@@ -1,134 +1,136 @@
-<h1 align="center">Hi 👋, I'm Ahmed Sami </h1>
+<h1 align="center">Ahmed Sami</h1>
 
-<h3 align="center">Python Backend Developer | Django & Flask | REST APIs | PostgreSQL | Docker</h3>
+<h3 align="center">
+Full-Stack Developer • Django • React • Flask • AI Integration
+</h3>
 
-
-
+<p align="center">
+Building scalable web applications and AI-powered solutions.
+</p>
 
 <p align="center">
   <a href="https://ahmed-sami-aly-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/ahmed-sami-54231621b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:ahmedsamy121277@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-sami-54231621b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Computer Science Graduate
-* 💼 ITI Full Stack Web & Generative AI Trainee
-* 🐍 Python Backend Developer passionate about scalable backend systems
-* 🔥 Experienced with Django, Flask, REST APIs and PostgreSQL
-* 🐳 Working with Docker, Linux and GitHub
-* 🌱 Currently learning DevOps and Kubernetes
-* 📍 Tanta, Egypt | Open to Relocation
+```python
+class AhmedSami:
+
+    role = "Full-Stack Developer"
+
+    backend = [
+        "Python",
+        "Django",
+        "Flask",
+        "Django REST Framework"
+    ]
+
+    frontend = [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ]
+
+    database = [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+    ]
+
+    interests = [
+        "AI Applications",
+        "LLMs",
+        "System Design",
+        "DevOps"
+    ]
+
+    current_focus = "Building AI-powered web applications"
+```
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman,bash" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedKhaleddd&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKhaleddd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,postgres,mysql,mongodb,docker,linux,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedKhaleddd&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧠 Wizan AI
 
----
+AI-powered productivity platform designed to help users manage tasks, regulate workload, and improve focus using intelligent recommendations.
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedKhaleddd&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+**Stack:** Django • React • PostgreSQL • Docker • Generative AI
 
 ---
 
-## 🚀 Featured Projects
+### 🎙️ Speech-to-Text Service
+
+Backend service that converts audio into text using AI models with fallback support and API integration.
+
+**Stack:** Django • Python • AI APIs
+
+---
 
 ### 🏥 Medical Appointment Management System
 
-Full-stack healthcare platform with authentication, appointment scheduling, email notifications, doctor availability management, role-based access control, and admin dashboard.
+Healthcare platform supporting authentication, appointment scheduling, doctor management, notifications, and role-based access control.
 
-*Tech Stack:* Django, Django REST Framework, React.js, Redux Toolkit, PostgreSQL, JWT Authentication, Docker, GitHub
+**Stack:** Django • React • PostgreSQL • Docker
 
 ---
 
 ### 🛒 Multi-Actor E-Commerce System
 
-Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows with product management and order handling.
+Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows.
 
-*Tech Stack:* JavaScript, jQuery, Bootstrap, HTML5, CSS3
-
----
-
-### 🎓 Student Grade Management System
-
-CLI-based Bash application supporting CRUD operations, GPA calculations, statistical reports, validation, and file-based storage.
-
-*Tech Stack:* Bash, Linux, awk, sed, grep
+**Stack:** JavaScript • Bootstrap • HTML • CSS
 
 ---
 
-### 📈 Data Analysis Projects
+## 📊 GitHub Statistics
 
-Data analysis and visualization using Python, SQL, Excel, and Power BI.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedsamv&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamv&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🎯 Current Goals
 
-* 🌐 Portfolio: https://ahmed-sami-aly-portfolio.netlify.app/
-* 💼 LinkedIn: www.linkedin.com/in/ahmed-sami-54231621b
-* 📧 Email: [ahmedsamy1212@gmail.com](mailto:ahmedsamy121277@gmail.com)
+* Build production-ready AI applications
+* Improve system design skills
+* Learn Kubernetes & Cloud Infrastructure
+* Contribute to open-source projects
+
+---
+
+## 📫 Reach Me
+
+📧 Email: [ahmedsamy121277@gmail.com](mailto:ahmedsamy121277@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/ahmed-sami-54231621b
+
+🌐 Portfolio: ahmed-sami-aly-portfolio.netlify.app
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedKhaleddd&label=Profile+Views&color=0e75b6&style=flat"/>
+<i>"Turning ideas into scalable products with code and AI."</i>
 </p>
-
-<h3 align="center">⭐ Turning Ideas Into Scalable Backend Solutions ⭐</h3>
