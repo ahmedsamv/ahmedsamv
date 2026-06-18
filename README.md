@@ -1,4 +1,23 @@
-## Hi there 👋
+┌──────────────────────────────────────────┐
+│ Ahmed Sami                               │
+│ AI & Full-Stack Developer                │
+│                                          │
+│ Building intelligent web applications    │
+│ with Django, React & Generative AI       │
+│                                          │
+│ Python • Django • React • PostgreSQL     │
+└──────────────────────────────────────────┘
+
+<h1 align="center">Ahmed Sami</h1>
+
+<h3 align="center">
+AI & Full-Stack Developer
+</h3>
+
+<p align="center">
+Building intelligent web applications with Django, React and Generative AI
+</p>
+
 
 <!--
 **ahmedsamv/ahmedsamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
