@@ -23,39 +23,80 @@
 </p>
 
 ---
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Ahmed%20Sami&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Engineer&descAlignY=63"/>
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Products;Django+%7C+React+%7C+Flask+%7C+Docker;Backend+Engineering+%26+System+Design;Generative+AI+Developer;Always+Learning.+Always+Shipping." />
+</p>
+
+<p align="center">
+<a href="https://ahmed-sami-aly-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge"/>
+</a>
+
+<a href="mailto:ahmedsamy121277@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-sami-54231621b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+# 🧠 About Me
 
 ```python
 class AhmedSami:
-    def __init__(self):
-        self.role = "Full-Stack & Generative AI Developer"
-        self.location = "Egypt 🇪🇬"
-        
-        self.backend = [
-            "Python", "Django", "Flask", 
-            "Django REST Framework", "API Design"
-        ]
-        
-        self.frontend = [
-            "React", "JavaScript", "HTML5", "CSS3"
-        ]
-        
-        self.database = [
-            "PostgreSQL", "MySQL", "MongoDB"
-        ]
-        
-        self.interests = [
-            "AI Applications", "LLMs", 
-            "System Design", "DevOps"
-        ]
-        
-        self.current_focus = "Building AI-powered web applications 🧠"
-        
-    def fun_fact(self):
-        return "I turn ideas into scalable products with code and AI ☕⚙️"
 
-## 🚀 Tech Stack
+    role = "Full Stack Developer & AI Engineer"
+
+    mission = """
+    Building intelligent software that solves
+    real-world problems through engineering and AI.
+    """
+
+    current_project = "Wizan AI"
+
+    stack = {
+        "Backend": [
+            "Python",
+            "Django",
+            "Flask",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+
+        "Frontend": [
+            "React",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+
+        "DevOps": [
+            "Docker",
+            "Linux",
+            "GitHub Actions"
+        ],
+
+        "AI": [
+            "LLMs",
+            "Prompt Engineering",
+            "RAG Systems",
+            "AI Integrations"
+        ]
+    }
+
+    motto = "Build. Learn. Improve. Repeat."
+```
+
+---
+
+# ⚡ Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,postgres,mysql,mongodb,docker,linux,git,github,postman,vscode" />
@@ -63,33 +104,47 @@ class AhmedSami:
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 What I'm Building
 
-### 🧠 Wizan AI
+🧠 AI Productivity Systems
 
-AI-powered productivity platform designed to help users manage tasks, regulate workload, and improve focus using intelligent recommendations.
+🎙️ Speech-to-Text Applications
+
+⚙️ Scalable Backend Architectures
+
+🐳 Dockerized Production Systems
+
+📈 Full Stack Applications Using Django & React
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 Wizan AI
+
+AI-powered productivity platform helping users manage tasks, regulate workload, improve focus, and boost productivity through intelligent recommendations and behavioral insights.
 
 **Stack:** Django • React • PostgreSQL • Docker • Generative AI
 
 ---
 
-### 🎙️ Speech-to-Text Service
+## 🎙️ Speech-to-Text Platform
 
-Backend service that converts audio into text using AI models with fallback support and API integration.
+A scalable speech processing service with AI transcription, fallback models, and API integrations.
 
-**Stack:** Django • Python • AI APIs
+**Stack:** Python • Django • AI APIs
 
 ---
 
-### 🏥 Medical Appointment Management System
+## 🏥 Medical Appointment Management System
 
-Healthcare platform supporting authentication, appointment scheduling, doctor management, notifications, and role-based access control.
+Healthcare platform featuring appointment scheduling, doctor availability management, authentication, notifications, and role-based access control.
 
 **Stack:** Django • React • PostgreSQL • Docker
 
 ---
 
-### 🛒 Multi-Actor E-Commerce System
+## 🛒 Multi-Actor E-Commerce System
 
 Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows.
 
@@ -97,34 +152,44 @@ Role-based e-commerce platform supporting Admin, Vendor, and Customer workflows.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedsamv&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedsamv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedsamv&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+# 🎯 2026 Goals
 
-* Build production-ready AI applications
-* Improve system design skills
-* Learn Kubernetes & Cloud Infrastructure
-* Contribute to open-source projects
-
----
-
-## 📫 Reach Me
-
-📧 Email: [ahmedsamy121277@gmail.com](mailto:ahmedsamy121277@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/ahmed-sami-54231621b
-
-🌐 Portfolio: ahmed-sami-aly-portfolio.netlify.app
+* Launch AI products used by real users
+* Master system design and scalable architectures
+* Advance in cloud and DevOps engineering
+* Contribute to impactful open-source projects
+* Build products that create measurable value
 
 ---
 
-<p align="center">
-<i>"Turning ideas into scalable products with code and AI."</i>
-</p>
+# 🤝 Connect With Me
+
+📧 **Email:** [ahmedsamy121277@gmail.com](mailto:ahmedsamy121277@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/ahmed-sami-54231621b
+
+🌐 **Portfolio:** ahmed-sami-aly-portfolio.netlify.app
+
+---
+
+<h3 align="center">
+
+"Turning ideas into intelligent products through software engineering and AI."
+
+</h3>
